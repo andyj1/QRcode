@@ -1,0 +1,13 @@
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\Qrcode.pdb
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.dll
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.presentation.dll
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.pdb
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.xml
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.presentation.pdb
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\zxing.presentation.xml
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\obj\Debug\Qrcode.csprojAssemblyReference.cache
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\obj\Debug\Qrcode.csproj.CoreCompileInputs.cache
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\obj\Debug\Qrcode.csproj.CopyComplete
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\obj\Debug\Qrcode.pdb
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\bin\Debug\Qrcode.exe
+C:\Users\jong7\Documents\vscode-workspace\Qrcode\Qrcode\obj\Debug\Qrcode.exe
