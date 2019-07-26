@@ -1,6 +1,6 @@
-# QRcode
+## QRcode
 
-implementation of QR code encode/decode using C# and Java
+- A side project extending Huffman coding implementation -- implementation of QR code encode/decode using C# and Java
 
 #### Libary: ZXing (https://github.com/zxing/zxing)
 - C#: ZXing.NET (https://github.com/micjahn/ZXing.Net) / IDE: Visual Studio
